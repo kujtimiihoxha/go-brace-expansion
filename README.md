@@ -1,6 +1,6 @@
 # Go bash style brace expansion
 
-This is an implementation of [juliangruber/brace-expansion](https://github.com/juliangruber/brace-expansion)
+This is a go implementation of [juliangruber/brace-expansion](https://github.com/juliangruber/brace-expansion)
 
 #### Usage
 ```go
